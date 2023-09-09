@@ -1,0 +1,18 @@
+.capa{
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+    padding: 100px 0px;
+    background-image: url('../img/capa4.jpg');
+   
+}
+.img{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+fotos{
+    max-width: 100%; 
+    height: auto;
+}
